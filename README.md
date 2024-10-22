@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! my name is Ali Dosoqi<br>I'm a Software Engineer</h2>
+<h1 align="center">Hi 👋! my name is Ali Dosoqi<br>I'm a Software Engineer</h1>
 
 ###
 
@@ -7,11 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al-Dos024&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
-
-###
 
 <img align="right" height="250" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
 
@@ -57,8 +52,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Al-Dos024/Al-Dos024/output/snake.svg" alt="Snake animation" />
-
-###
